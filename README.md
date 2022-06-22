@@ -1,2 +1,2 @@
 # calorie-counter
-Easy to use Java calorie counter. Takes in inputs and saves them to a .txt file.
+Beginner level calorie counter taking in user input and saving it to a .txt file.
